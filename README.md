@@ -12,18 +12,19 @@ I'm an engineer, and I try to produce in all engineering fields in which I am co
 
 I'm living in Istanbul, Turkey. Currently working as a Director of Software Development at [TurkNet](https://turk.net).
 
-### BIO
 
-- ⚙️&nbsp;&nbsp; I use daily: `.js`, `.java`, `.sh`, `.html`, `.css`, `.sql`, `.py`
-- ⚙️&nbsp;&nbsp; I'm currently learning: `.c`, `.cpp`
-- 🌍&nbsp;&nbsp; I am only active on **TurkNet** during working hours. Outside of working hours, I spend time with **my family** and special **open source projects**
-- 🌱&nbsp;&nbsp; Learning all about **Open Source**
-- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **java**, **javascript**, **development**
-- ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
-- 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to] or [linkedin].
+### Short Bio
 
-[email]: mailto:ilker@balpinar.com
-[twitter]: https://twitter.com/ibalpinar
-[linkedin]: https://www.linkedin.com/in/ibalpinar
-[instagram]: https://www.instagram.com/ibalpinar
-[facebook]: https://www.facebook.com/ibalpinar
+- ⚙️ I use daily: `.js`, `.java`, `.sh`, `.html`, `.css`, `.sql`, `.py`
+- 📖 I'm currently learning: `.c`, `.cpp`
+- 👨‍💻 I am only active on **TurkNet** during working hours.
+- 🌍 Outside of working hours, I spend time with **my family** and special **open source projects**
+- 🌱 Learning all about **Open Source**
+- 💬 You can ping me about **linux**, **bash**, **java**, **javascript**, **development**
+- 😻 I'm a big fan of cats, especially Istanbul cats!
+- 📫 You can reach me via [E-mail], [X], [LinkedIn], [Instagram].
+
+[E-mail]: mailto:ilker@balpinar.com
+[X]: https://twitter.com/ibalpinar
+[LinkedIn]: https://www.linkedin.com/in/ibalpinar
+[Instagram]: https://www.instagram.com/ibalpinar
