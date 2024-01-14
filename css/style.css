@@ -1,3 +1,11 @@
 body{
-   font: 15px Verdana, sans-serif;
+   font: 14px Verdana, sans-serif;
+}
+
+a {
+   color: blue;
+}
+
+a:hover {
+   color: red;
 }
