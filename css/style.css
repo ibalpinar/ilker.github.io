@@ -33,3 +33,10 @@ body{
    text-decoration: underline;
 }
 
+.content{
+   text-align: left;
+   padding: 50px 0px;
+}
+.footer{
+   text-align: left;
+}
