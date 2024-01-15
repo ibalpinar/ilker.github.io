@@ -16,6 +16,11 @@ body{
    padding: 10px;
 }
 
+.menu .icon svg{
+   width: 25px;
+   height: 25px;
+}
+
 .menu .link{
    padding-top: 14px;
 }
