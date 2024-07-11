@@ -12,19 +12,6 @@ I'm an engineer, and I try to produce in all engineering fields in which I am co
 
 I'm living in Istanbul, Turkey. Currently working as a Director of Software Development at [TurkNet](https://turk.net).
 
+#### To see my 'Short Bio' please visit me [GitHub Profile] page.
 
-### Short Bio
-
-- ⚙️ I use daily: `.js`, `.java`, `.sh`, `.html`, `.css`, `.sql`, `.py`
-- 📖 I'm currently learning: `.c`, `.cpp`
-- 👨‍💻 I am only active on **TurkNet** during working hours.
-- 🌍 Outside of working hours, I spend time with **my family** and special **open source projects**
-- 🌱 Learning all about **Open Source**
-- 💬 You can ping me about **linux**, **bash**, **java**, **javascript**, **development**
-- 😻 I'm a big fan of cats, especially Istanbul cats!
-- 📫 You can reach me via [E-mail], [X], [LinkedIn], [Instagram].
-
-[E-mail]: mailto:ilker@balpinar.com
-[X]: https://twitter.com/ibalpinar
-[LinkedIn]: https://www.linkedin.com/in/ibalpinar
-[Instagram]: https://www.instagram.com/ibalpinar
+[GitHub Profile]: https://github.com/ibalpinar/
